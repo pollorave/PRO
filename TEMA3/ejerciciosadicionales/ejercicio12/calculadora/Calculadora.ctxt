@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment1.params=
+comment1.target=Calculadora()
+comment2.params=
+comment2.target=int\ getCantidad()
+comment3.params=
+comment3.target=int\ getSuma()
+comment4.params=
+comment4.target=int\ getMaximo()
+comment5.params=
+comment5.target=int\ getMinimo()
+comment6.params=num
+comment6.target=void\ introducirNumero(int)
+comment7.params=media
+comment7.target=double\ getMedia(double)
+numComments=8

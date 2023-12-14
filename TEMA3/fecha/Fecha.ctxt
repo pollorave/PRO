@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Fecha
+comment1.params=
+comment1.target=Fecha()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=d\ m\ a
+comment2.target=Fecha(int,\ int,\ int)
+comment3.params=copia
+comment3.target=Fecha(Fecha)
+comment4.params=valordia
+comment4.target=void\ setdia(int)
+comment5.params=valormes
+comment5.target=void\ setmes(int)
+comment6.params=valoranio
+comment6.target=void\ setanio(int)
+comment7.params=
+comment7.target=int\ getdia()
+comment8.params=
+comment8.target=int\ getmes()
+comment9.params=
+comment9.target=int\ getanio()
+numComments=11

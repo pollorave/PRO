@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Dinero
+comment1.params=cuantosEuros
+comment1.target=Dinero(int)
+comment2.params=cuantosEuros
+comment2.target=void\ setEuros(int)
+comment3.params=
+comment3.target=int\ getEuros()
+comment4.params=
+comment4.target=void\ printDescomposicionMonedas()
+numComments=5

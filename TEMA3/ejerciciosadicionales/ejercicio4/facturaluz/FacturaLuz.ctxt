@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FacturaLuz
+comment1.params=Actual
+comment1.target=FacturaLuz(int)
+comment2.params=
+comment2.target=double\ getConsumo()
+comment3.params=
+comment3.target=double\ getImporteTotal()
+numComments=4

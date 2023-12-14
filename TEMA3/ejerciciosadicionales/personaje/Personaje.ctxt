@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Personaje
+comment1.params=Nom
+comment1.target=Personaje(java.lang.String)
+comment2.params=distancia
+comment2.target=void\ avanzar(int)
+comment3.params=
+comment3.target=void\ girar()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

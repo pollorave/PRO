@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Cafetera
+comment1.params=
+comment1.target=Cafetera()
+comment2.params=
+comment2.target=int\ getActual()
+comment3.params=
+comment3.target=int\ getMaxima()
+comment4.params=act
+comment4.target=void\ setActual(int)
+comment5.params=max
+comment5.target=void\ setMaxima(int)
+comment6.params=
+comment6.target=void\ llenarCafetera()
+comment7.params=taza
+comment7.target=void\ servirTaza(int)
+comment8.params=
+comment8.target=void\ vaciarCafetera()
+comment9.params=cafe
+comment9.target=void\ agregarCafe(int)
+numComments=10

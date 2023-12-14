@@ -1,0 +1,21 @@
+1. Crear cuadrado.
+2. Hacer cuadrado visible.
+3. Cambiar tamaño a 75.
+4. Mover cuadrado 75 a la derecha.
+5. Mover cuadrado 75 hacia abajo.
+6. Crear triángulo.
+7. Hacer triángulo visible.
+8. Cambiar tamaño a 50 de alto y 75 de ancho.
+9. Cambiar color a "verde".
+10. Mover triángulo 75 a la derecha.
+11. Mover triángulo 25 hacia abajo.
+12. Crear cuadrado.
+13. Hacer cuadrado visible.
+14. Cambiar color a "negro".
+15. Mover cuadrado 120 a la derecha.
+16. Mover cuadrado 100 hacia abajo.
+17. Crear círculo.
+18. Hacer círculo visible.
+19. Cambiar color a "amarillo".
+20. Cambiar tamaño a 50.
+20. Mover círculo 200 a la derecha.

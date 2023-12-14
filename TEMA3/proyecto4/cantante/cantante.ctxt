@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=cantante
+comment1.params=
+comment1.target=cantante()
+comment2.params=
+comment2.target=void\ cantar()
+comment3.params=
+comment3.target=boolean\ estaTriste1()
+comment4.params=
+comment4.target=boolean\ estaTriste2()
+comment5.params=
+comment5.target=void\ cambiarEstadoAnimo()
+numComments=6

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=FacturaLuz
+comment0.text=\r\n\ Escriba\ la\ descripci\u00F3n\ de\ la\ clase\ FacturaLuz\ aqu\u00ED.\r\n\ La\ clase\ guarada\ inforamci\u00F3n\ acerca\ del\ consumo\ de\ luz\ efectuado\ \r\n\ @author\ (su\ nombre)\ \r\n\ @version\ (n\u00BA\ versi\u00F3n\ o\ fecha)\r\n
+comment1.params=
+comment1.target=FacturaLuz()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ FacturaLuz\r\n
+comment2.params=lecturaAnt\ lecturaAct
+comment2.target=FacturaLuz(int,\ int)
+comment3.params=
+comment3.target=int\ getLecturaAnt()
+comment4.params=facturaant
+comment4.target=void\ setLecturaAnt(int)
+comment5.params=
+comment5.target=int\ getLecturaAnct()
+comment6.params=facturaact
+comment6.target=void\ setLecturaAct(int)
+comment7.params=
+comment7.target=int\ getConsumo()
+comment8.params=
+comment8.target=double\ getImporteTotal()
+numComments=9

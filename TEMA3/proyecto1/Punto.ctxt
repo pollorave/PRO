@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Punto
+comment1.params=
+comment1.target=Punto()
+comment1.text=Constructor\ de\ punto
+comment10.params=
+comment10.target=int\ getZ()
+comment2.params=p
+comment2.target=Punto(Punto)
+comment3.params=num
+comment3.target=Punto(int)
+comment4.params=queX\ queY\ queZ
+comment4.target=Punto(int,\ int,\ int)
+comment5.params=valorX
+comment5.target=void\ setX(int)
+comment5.text=con\ SET\ agregamos\ valores\ a\ la\ X\ al\ tratarse\ de\ un\ private
+comment6.params=
+comment6.target=int\ getX()
+comment6.text=con\ el\ GET\ recibimos\ el\ valor\ de\ X
+comment7.params=valorY
+comment7.target=void\ setY(int)
+comment8.params=
+comment8.target=int\ getY()
+comment9.params=valorZ
+comment9.target=void\ setZ(int)
+numComments=11

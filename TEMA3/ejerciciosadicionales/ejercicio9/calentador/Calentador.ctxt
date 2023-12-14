@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Calentador
+comment1.params=queMinimo\ queMaximo
+comment1.target=Calentador(int,\ int)
+comment2.params=
+comment2.target=int\ getTemperatura()
+comment3.params=
+comment3.target=int\ getMinimo()
+comment4.params=
+comment4.target=int\ getMaximo()
+comment5.params=
+comment5.target=int\ getIncremento()
+comment6.params=i
+comment6.target=void\ setIncremento(int)
+comment7.params=
+comment7.target=void\ calentar()
+comment8.params=
+comment8.target=void\ enfriar()
+numComments=9

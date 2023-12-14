@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=numero
+comment1.params=queNumero
+comment1.target=numero(int)
+comment2.params=otroNumero
+comment2.target=boolean\ esMayorQue(int)
+comment3.params=otroNumero
+comment3.target=boolean\ esMenorQue(int)
+comment4.params=otroNumero
+comment4.target=boolean\ esIgualQue(int)
+comment5.params=otroNumero
+comment5.target=java.lang.String\ comprobar(int)
+numComments=6

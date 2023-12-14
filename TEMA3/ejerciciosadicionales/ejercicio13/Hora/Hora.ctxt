@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Hora
+comment1.params=
+comment1.target=Hora()
+comment2.params=
+comment2.target=int\ getHoras()
+comment3.params=
+comment3.target=int\ getMinutos()
+comment4.params=
+comment4.target=int\ getSegundos()
+comment5.params=segundo
+comment5.target=void\ avanzarSegundo(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=void\ printHora()
+numComments=8

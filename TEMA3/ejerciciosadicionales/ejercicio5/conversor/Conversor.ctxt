@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Conversor
+comment1.params=
+comment1.target=Conversor()
+comment2.params=cuantosGrados
+comment2.target=void\ setGrados(double)
+comment3.params=
+comment3.target=double\ getGrados()
+comment4.params=Centigrados
+comment4.target=double\ aFarenheit(double)
+comment5.params=Fahrenheit
+comment5.target=double\ aCentigrados(double)
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Hucha
+comment1.params=
+comment1.target=Hucha()
+comment2.params=
+comment2.target=double\ getDinero()
+comment3.params=
+comment3.target=double\ getDineroInicial()
+comment4.params=
+comment4.target=double\ getDineroActual()
+comment5.params=Dinero
+comment5.target=void\ insertarDinero(double)
+comment6.params=Dinero
+comment6.target=void\ sacarDinero(double)
+comment7.params=
+comment7.target=void\ printDetalles()
+numComments=8
